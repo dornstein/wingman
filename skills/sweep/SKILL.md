@@ -1,5 +1,5 @@
 ---
-name: session-sweep
+name: sweep
 description: >
   Sweep the current chat session for escalations before archiving. Identifies
   incomplete work, deferred decisions, open questions, and untracked findings.
@@ -9,7 +9,7 @@ description: >
   authoring, or code review.
 ---
 
-# Session Sweep
+# Sweep
 
 Review the current conversation and identify everything that's unfinished or unresolved. Report it clearly so the user can decide what to do with each item.
 
@@ -49,7 +49,7 @@ Read any existing files in `/memories/session/` — they may contain notes from 
 Present the findings to the user as a structured summary in chat. Group by category. Use this format:
 
 ```
-## Session Sweep
+## Sweep
 
 **Session topic(s):** {brief description of what the session covered}
 **Date:** {today}
