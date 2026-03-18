@@ -3,6 +3,9 @@
   "displayName": "Wingman",
   "description": "AI development skills for GitHub Copilot — reusable methodologies for AI-native development.",
   "version": "0.1.0",
-  "publisher": "ornstein",
-  "repository": "https://github.com/ornstein/wingman"
+  "publisher": "dornstein",
+  "repository": "https://github.com/dornstein/wingman",
+  "skills": [
+    "./skills/session-sweep"
+  ]
 }
