@@ -1,0 +1,21 @@
+{
+  "name": "wingman",
+  "metadata": {
+    "description": "AI development skills for GitHub Copilot",
+    "version": "0.1.0"
+  },
+  "owner": {
+    "name": "dornstein"
+  },
+  "plugins": [
+    {
+      "name": "wingman",
+      "source": ".",
+      "description": "AI development skills — reusable methodologies for AI-native development.",
+      "version": "0.1.0",
+      "skills": [
+        "./skills/session-sweep"
+      ]
+    }
+  ]
+}
