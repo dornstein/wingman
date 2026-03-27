@@ -1,7 +1,7 @@
 {
   "name": "wingman",
   "description": "AI development skills for GitHub Copilot — reusable methodologies for AI-native development.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "dornstein"
   },

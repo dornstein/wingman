@@ -2,7 +2,7 @@
   "name": "wingman",
   "metadata": {
     "description": "AI development skills for GitHub Copilot",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "owner": {
     "name": "dornstein"
@@ -12,9 +12,10 @@
       "name": "wingman",
       "source": ".",
       "description": "AI development skills — reusable methodologies for AI-native development.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "skills": [
-        "./skills/sweep"
+        "./skills/sweep",
+        "./skills/never-again"
       ]
     }
   ]
