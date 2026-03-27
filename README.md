@@ -26,8 +26,7 @@ Skills are built on the open [Agent Skills](https://agentskills.io) standard, so
 | Skill | What it does |
 |-------|-------------|
 | **`/sweep`** | Scans your chat session for incomplete work, deferred decisions, open questions, discovered issues, and untracked ideas — then produces a structured triage report so nothing falls through the cracks when you close a session. |
-
-*More skills coming soon.*
+| **`/never-again`** | Root-causes a mistake and implements systemic repairs to prevent recurrence. Surveys your project's customization layers (instructions, skills, agents, memory, docs, lint) for the gap that allowed the error, recommends specific fixes, and implements them on approval. |
 
 ## Install
 
